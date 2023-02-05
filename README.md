@@ -6,7 +6,10 @@ TODO:// Codepath-prework. I created a self intrduction app following the steps p
 
 App Walk-though
 TODO://
-file:///private/var/folders/j8/q1dl1bs90s39z7ssqjlyt20c0000gn/T/0f685e54c4ed14cee6e97f46ea8a5b79/Kapture%202023-02-04%20at%2016.20.27.gif
+
+https://imgur.com/gallery/Us9MvBT
+
+I tried to attatch .gif at the end, but it seemed to cause an error. 
 
 Required Features
 1. App displays an image of a school's logo
